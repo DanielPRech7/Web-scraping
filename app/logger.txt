@@ -1,0 +1,528 @@
+2024-08-02 16:20:03,971 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 16:20:03,974 - INFO - Added job "main" to job store "default"
+2024-08-02 16:20:03,974 - INFO - Scheduler started
+2024-08-02 16:20:03,975 - INFO - Scheduler iniciado.
+2024-08-02 16:20:03,976 - WARNING - Run time of job "main (trigger: date[2024-08-02 12:55:00 UTC], next run at: 2024-08-02 12:55:00 UTC)" was missed by 3:25:03.976162
+2024-08-02 16:20:03,976 - INFO - Removed job 65e1e08031604d8fb223bab038d9b864
+2024-08-02 16:20:03,991 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-08-02 16:20:03,991 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 16:20:03,993 - INFO -  * Restarting with stat
+2024-08-02 16:20:04,787 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 16:20:04,788 - INFO - Added job "main" to job store "default"
+2024-08-02 16:20:04,788 - INFO - Scheduler started
+2024-08-02 16:20:04,789 - WARNING - Run time of job "main (trigger: date[2024-08-02 12:55:00 UTC], next run at: 2024-08-02 12:55:00 UTC)" was missed by 3:25:04.789525
+2024-08-02 16:20:04,789 - INFO - Scheduler iniciado.
+2024-08-02 16:20:04,790 - INFO - Removed job 101ca8cb6a184c81bfb84ca633678736
+2024-08-02 16:20:04,797 - WARNING -  * Debugger is active!
+2024-08-02 16:20:04,798 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 16:20:11,848 - INFO - 172.18.0.1 - - [02/Aug/2024 16:20:11] "GET / HTTP/1.1" 200 -
+2024-08-02 16:21:03,299 - INFO - 172.18.0.1 - - [02/Aug/2024 16:21:03] "GET /movies/base64 HTTP/1.1" 200 -
+2024-08-02 16:21:10,136 - INFO - 172.18.0.1 - - [02/Aug/2024 16:21:10] "[35m[1mGET /movies HTTP/1.1[0m" 500 -
+2024-08-02 16:21:10,182 - INFO - 172.18.0.1 - - [02/Aug/2024 16:21:10] "[36mGET /movies?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-02 16:21:10,182 - INFO - 172.18.0.1 - - [02/Aug/2024 16:21:10] "[36mGET /movies?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-02 16:21:10,294 - INFO - 172.18.0.1 - - [02/Aug/2024 16:21:10] "[36mGET /movies?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-02 16:21:27,119 - INFO - 172.18.0.1 - - [02/Aug/2024 16:21:27] "GET /movies/base64 HTTP/1.1" 200 -
+2024-08-02 16:21:48,367 - INFO - 172.18.0.1 - - [02/Aug/2024 16:21:48] "[33mGET /movies/ HTTP/1.1[0m" 404 -
+2024-08-02 16:21:52,443 - INFO - 172.18.0.1 - - [02/Aug/2024 16:21:52] "GET / HTTP/1.1" 200 -
+2024-08-02 16:21:58,654 - INFO - 172.18.0.1 - - [02/Aug/2024 16:21:58] "GET /movies/base64 HTTP/1.1" 200 -
+2024-08-02 16:22:02,731 - INFO - 172.18.0.1 - - [02/Aug/2024 16:22:02] "[33mGET /movies/ HTTP/1.1[0m" 404 -
+2024-08-02 16:22:13,605 - INFO - 172.18.0.1 - - [02/Aug/2024 16:22:13] "[35m[1mGET /movies HTTP/1.1[0m" 500 -
+2024-08-02 16:22:13,634 - INFO - 172.18.0.1 - - [02/Aug/2024 16:22:13] "[36mGET /movies?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-02 16:22:13,636 - INFO - 172.18.0.1 - - [02/Aug/2024 16:22:13] "[36mGET /movies?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-02 16:22:13,649 - INFO - 172.18.0.1 - - [02/Aug/2024 16:22:13] "[36mGET /movies?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-02 16:22:13,706 - INFO - 172.18.0.1 - - [02/Aug/2024 16:22:13] "[36mGET /movies?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-02 16:25:21,409 - INFO -  * Detected change in '/app/raspagem.py', reloading
+2024-08-02 16:25:21,546 - INFO -  * Restarting with stat
+2024-08-02 16:25:23,166 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 16:25:23,168 - INFO - Added job "main" to job store "default"
+2024-08-02 16:25:23,168 - INFO - Scheduler started
+2024-08-02 16:25:23,169 - WARNING - Run time of job "main (trigger: date[2024-08-02 13:27:00 UTC], next run at: 2024-08-02 13:27:00 UTC)" was missed by 2:58:23.169264
+2024-08-02 16:25:23,169 - INFO - Scheduler iniciado.
+2024-08-02 16:25:23,169 - INFO - Removed job a0bf69ab3f0342a9a8e87a545ca9b614
+2024-08-02 16:25:23,180 - WARNING -  * Debugger is active!
+2024-08-02 16:25:23,181 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 16:28:15,779 - INFO -  * Detected change in '/app/raspagem.py', reloading
+2024-08-02 16:28:15,946 - INFO -  * Restarting with stat
+2024-08-02 16:28:17,238 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 16:28:17,239 - INFO - Added job "main" to job store "default"
+2024-08-02 16:28:17,240 - INFO - Scheduler started
+2024-08-02 16:28:17,241 - WARNING - Run time of job "main (trigger: date[2024-08-02 13:30:00 UTC], next run at: 2024-08-02 13:30:00 UTC)" was missed by 2:58:17.241154
+2024-08-02 16:28:17,241 - INFO - Scheduler iniciado.
+2024-08-02 16:28:17,241 - INFO - Removed job 82f2c087c4b14e8a9312c5918b302936
+2024-08-02 16:28:17,250 - WARNING -  * Debugger is active!
+2024-08-02 16:28:17,252 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 20:12:41,501 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:12:41,502 - INFO - Added job "main" to job store "default"
+2024-08-02 20:12:41,502 - INFO - Scheduler started
+2024-08-02 20:12:41,503 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:13:00 UTC], next run at: 2024-08-02 17:13:00 UTC)" was missed by 2:59:41.503543
+2024-08-02 20:12:41,503 - INFO - Scheduler iniciado.
+2024-08-02 20:12:41,503 - INFO - Removed job ade54c1156164507b8f728b48a5c221b
+2024-08-02 20:12:41,517 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-08-02 20:12:41,517 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 20:12:41,519 - INFO -  * Restarting with stat
+2024-08-02 20:12:42,253 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:12:42,254 - INFO - Added job "main" to job store "default"
+2024-08-02 20:12:42,254 - INFO - Scheduler started
+2024-08-02 20:12:42,255 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:13:00 UTC], next run at: 2024-08-02 17:13:00 UTC)" was missed by 2:59:42.255620
+2024-08-02 20:12:42,255 - INFO - Scheduler iniciado.
+2024-08-02 20:12:42,255 - INFO - Removed job 582c46772c6a436bb145a279f74ae0be
+2024-08-02 20:12:42,261 - WARNING -  * Debugger is active!
+2024-08-02 20:12:42,262 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 20:12:51,871 - INFO - 172.18.0.1 - - [02/Aug/2024 20:12:51] "GET / HTTP/1.1" 200 -
+2024-08-02 20:15:18,104 - INFO -  * Detected change in '/app/raspagem.py', reloading
+2024-08-02 20:15:18,253 - INFO -  * Restarting with stat
+2024-08-02 20:15:19,012 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:15:19,013 - INFO - Added job "main" to job store "default"
+2024-08-02 20:15:19,014 - INFO - Scheduler started
+2024-08-02 20:15:19,015 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:13:00 UTC], next run at: 2024-08-02 17:13:00 UTC)" was missed by 3:02:19.015041
+2024-08-02 20:15:19,015 - INFO - Scheduler iniciado.
+2024-08-02 20:15:19,015 - INFO - Removed job 47bc10d5f7dc4564ac6baa0004380c62
+2024-08-02 20:15:19,023 - WARNING -  * Debugger is active!
+2024-08-02 20:15:19,024 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 20:18:35,403 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:18:35,404 - INFO - Added job "main" to job store "default"
+2024-08-02 20:18:35,405 - INFO - Scheduler started
+2024-08-02 20:18:35,406 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:22:00 UTC], next run at: 2024-08-02 17:22:00 UTC)" was missed by 2:56:35.406339
+2024-08-02 20:18:35,406 - INFO - Scheduler iniciado.
+2024-08-02 20:18:35,406 - INFO - Removed job 598cbdcf285247d8802e2d5a38f04d5a
+2024-08-02 20:18:35,417 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-08-02 20:18:35,418 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 20:18:35,419 - INFO -  * Restarting with stat
+2024-08-02 20:18:36,144 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:18:36,145 - INFO - Added job "main" to job store "default"
+2024-08-02 20:18:36,146 - INFO - Scheduler started
+2024-08-02 20:18:36,147 - INFO - Scheduler iniciado.
+2024-08-02 20:18:36,147 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:22:00 UTC], next run at: 2024-08-02 17:22:00 UTC)" was missed by 2:56:36.147200
+2024-08-02 20:18:36,147 - INFO - Removed job 7c77d69a7ebb4398a1239b736e1f2a5b
+2024-08-02 20:18:36,153 - WARNING -  * Debugger is active!
+2024-08-02 20:18:36,154 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 20:24:00,371 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:24:00,372 - INFO - Added job "main" to job store "default"
+2024-08-02 20:24:00,373 - INFO - Scheduler started
+2024-08-02 20:24:00,374 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:26:00 UTC], next run at: 2024-08-02 17:26:00 UTC)" was missed by 2:58:00.374139
+2024-08-02 20:24:00,374 - INFO - Scheduler iniciado.
+2024-08-02 20:24:00,374 - INFO - Removed job eafd2e93663744a7864414fe847b8ef2
+2024-08-02 20:24:00,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-08-02 20:24:00,385 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 20:24:00,387 - INFO -  * Restarting with stat
+2024-08-02 20:24:01,149 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:24:01,150 - INFO - Added job "main" to job store "default"
+2024-08-02 20:24:01,150 - INFO - Scheduler started
+2024-08-02 20:24:01,151 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:26:00 UTC], next run at: 2024-08-02 17:26:00 UTC)" was missed by 2:58:01.151744
+2024-08-02 20:24:01,151 - INFO - Scheduler iniciado.
+2024-08-02 20:24:01,152 - INFO - Removed job 7f7ee26eed7c4ee7b374087405b65e2f
+2024-08-02 20:24:01,159 - WARNING -  * Debugger is active!
+2024-08-02 20:24:01,161 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 20:29:41,530 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:29:41,531 - INFO - Added job "main" to job store "default"
+2024-08-02 20:29:41,531 - INFO - Scheduler started
+2024-08-02 20:29:41,532 - INFO - Scheduler iniciado.
+2024-08-02 20:29:41,543 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-08-02 20:29:41,543 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 20:29:41,544 - INFO -  * Restarting with stat
+2024-08-02 20:29:42,276 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:29:42,277 - INFO - Added job "main" to job store "default"
+2024-08-02 20:29:42,278 - INFO - Scheduler started
+2024-08-02 20:29:42,279 - INFO - Scheduler iniciado.
+2024-08-02 20:29:42,284 - WARNING -  * Debugger is active!
+2024-08-02 20:29:42,285 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 20:31:00,003 - INFO - Running job "main (trigger: date[2024-08-02 20:31:00 UTC], next run at: 2024-08-02 20:31:00 UTC)" (scheduled at 2024-08-02 20:31:00+00:00)
+2024-08-02 20:31:00,010 - INFO - Running job "main (trigger: date[2024-08-02 20:31:00 UTC], next run at: 2024-08-02 20:31:00 UTC)" (scheduled at 2024-08-02 20:31:00+00:00)
+2024-08-02 20:31:00,004 - INFO - Removed job f6fea97834c04dffbdf9f673431530bd
+2024-08-02 20:31:00,011 - INFO - Removed job b07bcbcc42e2461e86d729ba35899b64
+2024-08-02 20:31:01,120 - INFO - Requisição feita com sucesso, status code: 200
+2024-08-02 20:31:01,221 - INFO - Requisição feita com sucesso, status code: 200
+2024-08-02 20:31:01,247 - INFO - Títulos extraídos com sucesso:
+2024-08-02 20:31:01,247 - INFO - Filme: IMDb Charts
+2024-08-02 20:31:01,248 - INFO - Filme: IMDb Top 250 Movies
+2024-08-02 20:31:01,248 - INFO - Filme: 1. The Shawshank Redemption
+2024-08-02 20:31:01,250 - INFO - Filme: 2. The Godfather
+2024-08-02 20:31:01,250 - INFO - Filme: 3. The Dark Knight
+2024-08-02 20:31:01,251 - INFO - Filme: 4. The Godfather Part II
+2024-08-02 20:31:01,251 - INFO - Filme: 5. 12 Angry Men
+2024-08-02 20:31:01,251 - INFO - Filme: 6. Schindler's List
+2024-08-02 20:31:01,251 - INFO - Filme: 7. The Lord of the Rings: The Return of the King
+2024-08-02 20:31:01,252 - INFO - Filme: 8. Pulp Fiction
+2024-08-02 20:31:01,252 - INFO - Filme: 9. The Lord of the Rings: The Fellowship of the Ring
+2024-08-02 20:31:01,252 - INFO - Filme: 10. The Good, the Bad and the Ugly
+2024-08-02 20:31:01,252 - INFO - Filme: 11. Forrest Gump
+2024-08-02 20:31:01,253 - INFO - Filme: 12. The Lord of the Rings: The Two Towers
+2024-08-02 20:31:01,253 - INFO - Filme: 13. Fight Club
+2024-08-02 20:31:01,253 - INFO - Filme: 14. Inception
+2024-08-02 20:31:01,253 - INFO - Filme: 15. Star Wars: Episode V - The Empire Strikes Back
+2024-08-02 20:31:01,254 - INFO - Filme: 16. The Matrix
+2024-08-02 20:31:01,254 - INFO - Filme: 17. Goodfellas
+2024-08-02 20:31:01,254 - INFO - Filme: 18. One Flew Over the Cuckoo's Nest
+2024-08-02 20:31:01,254 - INFO - Filme: 19. Interstellar
+2024-08-02 20:31:01,255 - INFO - Filme: 20. Se7en
+2024-08-02 20:31:01,255 - INFO - Filme: 21. It's a Wonderful Life
+2024-08-02 20:31:01,255 - INFO - Filme: 22. Seven Samurai
+2024-08-02 20:31:01,255 - INFO - Filme: 23. The Silence of the Lambs
+2024-08-02 20:31:01,255 - INFO - Filme: 24. Saving Private Ryan
+2024-08-02 20:31:01,255 - INFO - Filme: 25. City of God
+2024-08-02 20:31:01,256 - INFO - Filme: Recently viewed
+2024-08-02 20:31:01,272 - INFO - Salvando filmes.json
+2024-08-02 20:31:01,302 - INFO - JSON convertido para Base64 e salvo em filmes_base64.txt
+2024-08-02 20:31:01,302 - INFO - Salvando filmes.csv
+2024-08-02 20:31:01,306 - INFO - Dados salvos em filmes.csv e filmes.json
+2024-08-02 20:31:01,333 - INFO - Tabela 'movies' criada.
+2024-08-02 20:31:01,339 - INFO - Dados inseridos na tabela 'movies' com sucesso.
+2024-08-02 20:31:01,345 - INFO - Títulos extraídos com sucesso:
+2024-08-02 20:31:01,346 - INFO - Filme: IMDb Charts
+2024-08-02 20:31:01,346 - INFO - Filme: IMDb Top 250 Movies
+2024-08-02 20:31:01,346 - INFO - Filme: 1. The Shawshank Redemption
+2024-08-02 20:31:01,346 - INFO - Filme: 2. The Godfather
+2024-08-02 20:31:01,347 - INFO - Filme: 3. The Dark Knight
+2024-08-02 20:31:01,347 - INFO - Filme: 4. The Godfather Part II
+2024-08-02 20:31:01,347 - INFO - Filme: 5. 12 Angry Men
+2024-08-02 20:31:01,347 - INFO - Filme: 6. Schindler's List
+2024-08-02 20:31:01,348 - INFO - Filme: 7. The Lord of the Rings: The Return of the King
+2024-08-02 20:31:01,348 - INFO - Filme: 8. Pulp Fiction
+2024-08-02 20:31:01,348 - INFO - Filme: 9. The Lord of the Rings: The Fellowship of the Ring
+2024-08-02 20:31:01,348 - INFO - Filme: 10. The Good, the Bad and the Ugly
+2024-08-02 20:31:01,349 - INFO - Filme: 11. Forrest Gump
+2024-08-02 20:31:01,349 - INFO - Filme: 12. The Lord of the Rings: The Two Towers
+2024-08-02 20:31:01,349 - INFO - Filme: 13. Fight Club
+2024-08-02 20:31:01,349 - INFO - Filme: 14. Inception
+2024-08-02 20:31:01,350 - INFO - Filme: 15. Star Wars: Episode V - The Empire Strikes Back
+2024-08-02 20:31:01,350 - INFO - Filme: 16. The Matrix
+2024-08-02 20:31:01,350 - INFO - Filme: 17. Goodfellas
+2024-08-02 20:31:01,351 - INFO - Filme: 18. One Flew Over the Cuckoo's Nest
+2024-08-02 20:31:01,351 - INFO - Filme: 19. Interstellar
+2024-08-02 20:31:01,351 - INFO - Filme: 20. Se7en
+2024-08-02 20:31:01,351 - INFO - Filme: 21. It's a Wonderful Life
+2024-08-02 20:31:01,351 - INFO - Filme: 22. Seven Samurai
+2024-08-02 20:31:01,352 - INFO - Filme: 23. The Silence of the Lambs
+2024-08-02 20:31:01,352 - INFO - Filme: 24. Saving Private Ryan
+2024-08-02 20:31:01,352 - INFO - Filme: 25. City of God
+2024-08-02 20:31:01,352 - INFO - Filme: Recently viewed
+2024-08-02 20:31:01,353 - INFO - ====== WebDriver manager ======
+2024-08-02 20:31:01,358 - INFO - Salvando filmes.json
+2024-08-02 20:31:01,362 - INFO - JSON convertido para Base64 e salvo em filmes_base64.txt
+2024-08-02 20:31:01,362 - INFO - Salvando filmes.csv
+2024-08-02 20:31:01,370 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 20:31:01,390 - INFO - Dados salvos em filmes.csv e filmes.json
+2024-08-02 20:31:01,397 - INFO - Tabela 'movies' criada.
+2024-08-02 20:31:01,402 - INFO - Dados inseridos na tabela 'movies' com sucesso.
+2024-08-02 20:31:01,411 - INFO - ====== WebDriver manager ======
+2024-08-02 20:31:01,421 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 20:31:01,692 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2024-08-02 20:31:01,692 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2024-08-02 20:31:01,850 - INFO - Driver downloading response is 200
+2024-08-02 20:31:01,863 - INFO - Driver downloading response is 200
+2024-08-02 20:31:02,842 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 20:31:03,113 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 20:31:03,269 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2024-08-02 20:31:03,281 - ERROR - Erro ao tirar captura de tela: Message: Service /root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver unexpectedly exited. Status code was: 127
+
+2024-08-02 20:31:03,286 - ERROR - Job "main (trigger: date[2024-08-02 20:31:00 UTC], next run at: 2024-08-02 20:31:00 UTC)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/app/raspagem.py", line 161, in main
+    tirar_print(IMDB_URL, "screenshot.png")
+  File "/app/raspagem.py", line 130, in tirar_print
+    driver.quit()
+UnboundLocalError: local variable 'driver' referenced before assignment
+2024-08-02 20:31:03,663 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 20:31:04,144 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 20:31:04,308 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2024-08-02 20:31:04,323 - ERROR - Erro ao tirar captura de tela: Message: Service /root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver unexpectedly exited. Status code was: 127
+
+2024-08-02 20:31:04,329 - ERROR - Job "main (trigger: date[2024-08-02 20:31:00 UTC], next run at: 2024-08-02 20:31:00 UTC)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/app/raspagem.py", line 161, in main
+    tirar_print(IMDB_URL, "screenshot.png")
+  File "/app/raspagem.py", line 130, in tirar_print
+    driver.quit()
+UnboundLocalError: local variable 'driver' referenced before assignment
+2024-08-02 20:34:35,129 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:34:35,131 - INFO - Added job "main" to job store "default"
+2024-08-02 20:34:35,131 - INFO - Scheduler started
+2024-08-02 20:34:35,132 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:36:00 UTC], next run at: 2024-08-02 17:36:00 UTC)" was missed by 2:58:35.132608
+2024-08-02 20:34:35,132 - INFO - Scheduler iniciado.
+2024-08-02 20:34:35,133 - INFO - Removed job df0c68554c7a4df48c49c942b10bc0c3
+2024-08-02 20:34:35,146 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-08-02 20:34:35,146 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 20:34:35,150 - INFO -  * Restarting with stat
+2024-08-02 20:34:38,048 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:34:38,049 - INFO - Added job "main" to job store "default"
+2024-08-02 20:34:38,050 - INFO - Scheduler started
+2024-08-02 20:34:38,050 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:36:00 UTC], next run at: 2024-08-02 17:36:00 UTC)" was missed by 2:58:38.050839
+2024-08-02 20:34:38,051 - INFO - Scheduler iniciado.
+2024-08-02 20:34:38,051 - INFO - Removed job 7c654c489f2843a4b1e14aab93b4511c
+2024-08-02 20:34:38,059 - WARNING -  * Debugger is active!
+2024-08-02 20:34:38,060 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 20:35:57,209 - INFO - 172.18.0.1 - - [02/Aug/2024 20:35:57] "GET / HTTP/1.1" 200 -
+2024-08-02 20:36:00,213 - INFO - 172.18.0.1 - - [02/Aug/2024 20:36:00] "GET / HTTP/1.1" 200 -
+2024-08-02 20:36:10,282 - INFO - 172.18.0.1 - - [02/Aug/2024 20:36:10] "GET / HTTP/1.1" 200 -
+2024-08-02 20:41:02,988 - INFO -  * Detected change in '/app/raspagem.py', reloading
+2024-08-02 20:41:03,147 - INFO -  * Restarting with stat
+2024-08-02 20:44:10,020 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:44:10,023 - INFO - Added job "main" to job store "default"
+2024-08-02 20:44:10,023 - INFO - Scheduler started
+2024-08-02 20:44:10,025 - INFO - Scheduler iniciado.
+2024-08-02 20:44:10,026 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:46:00 UTC], next run at: 2024-08-02 17:46:00 UTC)" was missed by 2:58:10.025996
+2024-08-02 20:44:10,026 - INFO - Removed job 816183d4fda94f3d8ef34f4353621447
+2024-08-02 20:44:10,041 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-08-02 20:44:10,042 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 20:44:10,043 - INFO -  * Restarting with stat
+2024-08-02 20:44:10,786 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:44:10,787 - INFO - Added job "main" to job store "default"
+2024-08-02 20:44:10,787 - INFO - Scheduler started
+2024-08-02 20:44:10,788 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:46:00 UTC], next run at: 2024-08-02 17:46:00 UTC)" was missed by 2:58:10.788504
+2024-08-02 20:44:10,788 - INFO - Scheduler iniciado.
+2024-08-02 20:44:10,788 - INFO - Removed job a07c205852924033ab98dbfbc19da43d
+2024-08-02 20:44:10,796 - WARNING -  * Debugger is active!
+2024-08-02 20:44:10,797 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 20:48:29,105 - INFO -  * Detected change in '/app/raspagem.py', reloading
+2024-08-02 20:48:29,231 - INFO -  * Restarting with stat
+2024-08-02 20:48:30,021 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:48:30,022 - INFO - Added job "main" to job store "default"
+2024-08-02 20:48:30,022 - INFO - Scheduler started
+2024-08-02 20:48:30,023 - INFO - Scheduler iniciado.
+2024-08-02 20:48:30,023 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:51:00 UTC], next run at: 2024-08-02 17:51:00 UTC)" was missed by 2:57:30.023717
+2024-08-02 20:48:30,023 - INFO - Removed job 964682cbbdd34185a872b334746ee851
+2024-08-02 20:48:30,030 - WARNING -  * Debugger is active!
+2024-08-02 20:48:30,031 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 20:49:59,299 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:49:59,300 - INFO - Added job "main" to job store "default"
+2024-08-02 20:49:59,300 - INFO - Scheduler started
+2024-08-02 20:49:59,301 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:52:00 UTC], next run at: 2024-08-02 17:52:00 UTC)" was missed by 2:57:59.301874
+2024-08-02 20:49:59,302 - INFO - Scheduler iniciado.
+2024-08-02 20:49:59,302 - INFO - Removed job 9413446a1a19458a9326cb8a23370989
+2024-08-02 20:49:59,312 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-08-02 20:49:59,312 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 20:49:59,314 - INFO -  * Restarting with stat
+2024-08-02 20:50:00,068 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 20:50:00,069 - INFO - Added job "main" to job store "default"
+2024-08-02 20:50:00,069 - INFO - Scheduler started
+2024-08-02 20:50:00,070 - WARNING - Run time of job "main (trigger: date[2024-08-02 17:52:00 UTC], next run at: 2024-08-02 17:52:00 UTC)" was missed by 2:58:00.070295
+2024-08-02 20:50:00,070 - INFO - Scheduler iniciado.
+2024-08-02 20:50:00,070 - INFO - Removed job dc8ff5da4646496bb3c96d216c845b9b
+2024-08-02 20:50:00,077 - WARNING -  * Debugger is active!
+2024-08-02 20:50:00,078 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 21:26:33,988 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 21:26:33,989 - INFO - Added job "main" to job store "default"
+2024-08-02 21:26:33,989 - INFO - Scheduler started
+2024-08-02 21:26:33,990 - WARNING - Run time of job "main (trigger: date[2024-08-02 18:27:00 UTC], next run at: 2024-08-02 18:27:00 UTC)" was missed by 2:59:33.990797
+2024-08-02 21:26:33,990 - INFO - Scheduler iniciado.
+2024-08-02 21:26:33,991 - INFO - Removed job a6744b1682a8444387aa92a77cce18e2
+2024-08-02 21:26:34,003 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-08-02 21:26:34,003 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 21:26:34,005 - INFO -  * Restarting with stat
+2024-08-02 21:26:34,932 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 21:26:34,933 - INFO - Added job "main" to job store "default"
+2024-08-02 21:26:34,933 - INFO - Scheduler started
+2024-08-02 21:26:34,934 - INFO - Scheduler iniciado.
+2024-08-02 21:26:34,935 - WARNING - Run time of job "main (trigger: date[2024-08-02 18:27:00 UTC], next run at: 2024-08-02 18:27:00 UTC)" was missed by 2:59:34.935019
+2024-08-02 21:26:34,935 - INFO - Removed job 4e3c3b28e13c4070acbbd8f02ca9467c
+2024-08-02 21:26:34,943 - WARNING -  * Debugger is active!
+2024-08-02 21:26:34,944 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 21:32:08,083 - INFO -  * Detected change in '/app/raspagem.py', reloading
+2024-08-02 21:32:08,248 - INFO -  * Restarting with stat
+2024-08-02 21:32:09,487 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 21:32:09,488 - INFO - Added job "main" to job store "default"
+2024-08-02 21:32:09,489 - INFO - Scheduler started
+2024-08-02 21:32:09,489 - INFO - Scheduler iniciado.
+2024-08-02 21:32:09,490 - WARNING - Run time of job "main (trigger: date[2024-08-02 19:33:00 UTC], next run at: 2024-08-02 19:33:00 UTC)" was missed by 1:59:09.490181
+2024-08-02 21:32:09,490 - INFO - Removed job 842afa03ee014911886527f3706af2e5
+2024-08-02 21:32:09,501 - WARNING -  * Debugger is active!
+2024-08-02 21:32:09,502 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 21:38:13,110 - INFO -  * Detected change in '/app/raspagem.py', reloading
+2024-08-02 21:38:13,283 - INFO -  * Restarting with stat
+2024-08-02 21:38:14,502 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 21:38:14,503 - INFO - Added job "main" to job store "default"
+2024-08-02 21:38:14,504 - INFO - Scheduler started
+2024-08-02 21:38:14,505 - WARNING - Run time of job "main (trigger: date[2024-08-02 18:43:00 UTC], next run at: 2024-08-02 18:43:00 UTC)" was missed by 2:55:14.505932
+2024-08-02 21:38:14,506 - INFO - Scheduler iniciado.
+2024-08-02 21:38:14,506 - INFO - Removed job 83bbb7a4caa840159802177a2706364d
+2024-08-02 21:38:14,516 - WARNING -  * Debugger is active!
+2024-08-02 21:38:14,518 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 21:45:39,288 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 21:45:39,290 - INFO - Added job "main" to job store "default"
+2024-08-02 21:45:39,290 - INFO - Scheduler started
+2024-08-02 21:45:39,291 - INFO - Scheduler iniciado.
+2024-08-02 21:45:39,291 - WARNING - Run time of job "main (trigger: date[2024-08-02 19:48:00 UTC], next run at: 2024-08-02 19:48:00 UTC)" was missed by 1:57:39.291460
+2024-08-02 21:45:39,291 - INFO - Removed job ea53a20515c344dbbee9860a9d1d16ff
+2024-08-02 21:45:39,304 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-08-02 21:45:39,305 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 21:45:39,306 - INFO -  * Restarting with stat
+2024-08-02 21:45:40,098 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 21:45:40,098 - INFO - Added job "main" to job store "default"
+2024-08-02 21:45:40,099 - INFO - Scheduler started
+2024-08-02 21:45:40,101 - WARNING - Run time of job "main (trigger: date[2024-08-02 19:48:00 UTC], next run at: 2024-08-02 19:48:00 UTC)" was missed by 1:57:40.101240
+2024-08-02 21:45:40,101 - INFO - Scheduler iniciado.
+2024-08-02 21:45:40,101 - INFO - Removed job 59aa323168b1493ab545a091f26c7819
+2024-08-02 21:45:40,108 - WARNING -  * Debugger is active!
+2024-08-02 21:45:40,109 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 21:53:48,519 - INFO -  * Detected change in '/app/raspagem.py', reloading
+2024-08-02 21:53:48,699 - INFO -  * Restarting with stat
+2024-08-02 21:53:49,906 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 21:53:49,907 - INFO - Added job "main" to job store "default"
+2024-08-02 21:53:49,908 - INFO - Scheduler started
+2024-08-02 21:53:49,909 - WARNING - Run time of job "main (trigger: date[2024-08-02 21:48:00 UTC], next run at: 2024-08-02 21:48:00 UTC)" was missed by 0:05:49.909371
+2024-08-02 21:53:49,909 - INFO - Scheduler iniciado.
+2024-08-02 21:53:49,909 - INFO - Removed job a28d1121e9f74c8bb5df1f46be96cd12
+2024-08-02 21:53:49,918 - WARNING -  * Debugger is active!
+2024-08-02 21:53:49,919 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 21:55:12,527 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 21:55:12,528 - INFO - Added job "main" to job store "default"
+2024-08-02 21:55:12,529 - INFO - Scheduler started
+2024-08-02 21:55:12,530 - INFO - Scheduler iniciado.
+2024-08-02 21:55:12,542 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-08-02 21:55:12,542 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 21:55:12,544 - INFO -  * Restarting with stat
+2024-08-02 21:55:13,343 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 21:55:13,344 - INFO - Added job "main" to job store "default"
+2024-08-02 21:55:13,344 - INFO - Scheduler started
+2024-08-02 21:55:13,345 - INFO - Scheduler iniciado.
+2024-08-02 21:55:13,351 - WARNING -  * Debugger is active!
+2024-08-02 21:55:13,361 - INFO -  * Debugger PIN: 656-820-496
+2024-08-02 21:57:00,003 - INFO - Running job "main (trigger: date[2024-08-02 21:57:00 UTC], next run at: 2024-08-02 21:57:00 UTC)" (scheduled at 2024-08-02 21:57:00+00:00)
+2024-08-02 21:57:00,003 - INFO - Running job "main (trigger: date[2024-08-02 21:57:00 UTC], next run at: 2024-08-02 21:57:00 UTC)" (scheduled at 2024-08-02 21:57:00+00:00)
+2024-08-02 21:57:00,004 - INFO - Removed job 9a1832511a1c4b1b8e60ba2bf2825217
+2024-08-02 21:57:00,004 - INFO - Removed job d24beae5f4bf4a4988d7d4f8054d23a0
+2024-08-02 21:57:01,211 - INFO - Requisição feita com sucesso, status code: 200
+2024-08-02 21:57:01,248 - INFO - Requisição feita com sucesso, status code: 200
+2024-08-02 21:57:01,359 - INFO - Títulos extraídos com sucesso:
+2024-08-02 21:57:01,359 - INFO - Filme: IMDb Charts
+2024-08-02 21:57:01,360 - INFO - Filme: IMDb Top 250 Movies
+2024-08-02 21:57:01,360 - INFO - Filme: 1. The Shawshank Redemption
+2024-08-02 21:57:01,361 - INFO - Filme: 2. The Godfather
+2024-08-02 21:57:01,361 - INFO - Filme: 3. The Dark Knight
+2024-08-02 21:57:01,362 - INFO - Filme: 4. The Godfather Part II
+2024-08-02 21:57:01,362 - INFO - Filme: 5. 12 Angry Men
+2024-08-02 21:57:01,362 - INFO - Filme: 6. Schindler's List
+2024-08-02 21:57:01,363 - INFO - Filme: 7. The Lord of the Rings: The Return of the King
+2024-08-02 21:57:01,363 - INFO - Filme: 8. Pulp Fiction
+2024-08-02 21:57:01,363 - INFO - Filme: 9. The Lord of the Rings: The Fellowship of the Ring
+2024-08-02 21:57:01,364 - INFO - Filme: 10. The Good, the Bad and the Ugly
+2024-08-02 21:57:01,364 - INFO - Filme: 11. Forrest Gump
+2024-08-02 21:57:01,364 - INFO - Filme: 12. The Lord of the Rings: The Two Towers
+2024-08-02 21:57:01,365 - INFO - Filme: 13. Fight Club
+2024-08-02 21:57:01,365 - INFO - Filme: 14. Inception
+2024-08-02 21:57:01,366 - INFO - Filme: 15. Star Wars: Episode V - The Empire Strikes Back
+2024-08-02 21:57:01,366 - INFO - Filme: 16. The Matrix
+2024-08-02 21:57:01,366 - INFO - Filme: 17. Goodfellas
+2024-08-02 21:57:01,366 - INFO - Filme: 18. One Flew Over the Cuckoo's Nest
+2024-08-02 21:57:01,367 - INFO - Filme: 19. Interstellar
+2024-08-02 21:57:01,367 - INFO - Filme: 20. Se7en
+2024-08-02 21:57:01,367 - INFO - Filme: 21. It's a Wonderful Life
+2024-08-02 21:57:01,367 - INFO - Filme: 22. Seven Samurai
+2024-08-02 21:57:01,367 - INFO - Filme: 23. The Silence of the Lambs
+2024-08-02 21:57:01,368 - INFO - Filme: 24. Saving Private Ryan
+2024-08-02 21:57:01,368 - INFO - Filme: 25. City of God
+2024-08-02 21:57:01,368 - INFO - Filme: Recently viewed
+2024-08-02 21:57:01,379 - INFO - Salvando filmes.json
+2024-08-02 21:57:01,388 - INFO - Títulos extraídos com sucesso:
+2024-08-02 21:57:01,389 - INFO - Filme: IMDb Charts
+2024-08-02 21:57:01,389 - INFO - Filme: IMDb Top 250 Movies
+2024-08-02 21:57:01,389 - INFO - Filme: 1. The Shawshank Redemption
+2024-08-02 21:57:01,390 - INFO - Filme: 2. The Godfather
+2024-08-02 21:57:01,390 - INFO - Filme: 3. The Dark Knight
+2024-08-02 21:57:01,391 - INFO - Filme: 4. The Godfather Part II
+2024-08-02 21:57:01,391 - INFO - Filme: 5. 12 Angry Men
+2024-08-02 21:57:01,391 - INFO - Filme: 6. Schindler's List
+2024-08-02 21:57:01,392 - INFO - Filme: 7. The Lord of the Rings: The Return of the King
+2024-08-02 21:57:01,392 - INFO - Filme: 8. Pulp Fiction
+2024-08-02 21:57:01,392 - INFO - Filme: 9. The Lord of the Rings: The Fellowship of the Ring
+2024-08-02 21:57:01,392 - INFO - Filme: 10. The Good, the Bad and the Ugly
+2024-08-02 21:57:01,393 - INFO - Filme: 11. Forrest Gump
+2024-08-02 21:57:01,393 - INFO - Filme: 12. The Lord of the Rings: The Two Towers
+2024-08-02 21:57:01,393 - INFO - Filme: 13. Fight Club
+2024-08-02 21:57:01,393 - INFO - Filme: 14. Inception
+2024-08-02 21:57:01,394 - INFO - Filme: 15. Star Wars: Episode V - The Empire Strikes Back
+2024-08-02 21:57:01,394 - INFO - Filme: 16. The Matrix
+2024-08-02 21:57:01,394 - INFO - Filme: 17. Goodfellas
+2024-08-02 21:57:01,394 - INFO - Filme: 18. One Flew Over the Cuckoo's Nest
+2024-08-02 21:57:01,395 - INFO - Filme: 19. Interstellar
+2024-08-02 21:57:01,395 - INFO - Filme: 20. Se7en
+2024-08-02 21:57:01,395 - INFO - Filme: 21. It's a Wonderful Life
+2024-08-02 21:57:01,395 - INFO - Filme: 22. Seven Samurai
+2024-08-02 21:57:01,395 - INFO - Filme: 23. The Silence of the Lambs
+2024-08-02 21:57:01,396 - INFO - Filme: 24. Saving Private Ryan
+2024-08-02 21:57:01,396 - INFO - Filme: 25. City of God
+2024-08-02 21:57:01,396 - INFO - Filme: Recently viewed
+2024-08-02 21:57:01,401 - INFO - Salvando filmes.json
+2024-08-02 21:57:01,404 - INFO - JSON convertido para Base64 e salvo em filmes_base64.txt
+2024-08-02 21:57:01,405 - INFO - Salvando filmes.csv
+2024-08-02 21:57:01,410 - INFO - JSON convertido para Base64 e salvo em filmes_base64.txt
+2024-08-02 21:57:01,410 - INFO - Salvando filmes.csv
+2024-08-02 21:57:01,413 - INFO - Dados salvos em filmes.csv e filmes.json
+2024-08-02 21:57:01,434 - INFO - Dados salvos em filmes.csv e filmes.json
+2024-08-02 21:57:01,439 - INFO - Tabela 'movies' criada.
+2024-08-02 21:57:01,443 - INFO - Tabela 'movies' criada.
+2024-08-02 21:57:01,444 - INFO - Dados inseridos na tabela 'movies' com sucesso.
+2024-08-02 21:57:01,454 - INFO - ====== WebDriver manager ======
+2024-08-02 21:57:01,459 - INFO - Dados inseridos na tabela 'movies' com sucesso.
+2024-08-02 21:57:01,473 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 21:57:01,474 - INFO - ====== WebDriver manager ======
+2024-08-02 21:57:01,487 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 21:57:01,740 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2024-08-02 21:57:01,744 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2024-08-02 21:57:01,908 - INFO - Driver downloading response is 200
+2024-08-02 21:57:01,923 - INFO - Driver downloading response is 200
+2024-08-02 21:57:06,935 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 21:57:07,236 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 21:57:07,421 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2024-08-02 21:57:07,436 - ERROR - Erro ao tirar captura de tela: Message: Service /root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver unexpectedly exited. Status code was: 127
+
+2024-08-02 21:57:07,442 - ERROR - Job "main (trigger: date[2024-08-02 21:57:00 UTC], next run at: 2024-08-02 21:57:00 UTC)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/app/raspagem.py", line 163, in main
+    tirar_print(IMDB_URL, "screenshot.png")
+  File "/app/raspagem.py", line 132, in tirar_print
+    driver.quit()
+UnboundLocalError: local variable 'driver' referenced before assignment
+2024-08-02 21:57:08,467 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 21:57:08,757 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 21:57:08,939 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2024-08-02 21:57:08,953 - ERROR - Erro ao tirar captura de tela: Message: Service /root/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver unexpectedly exited. Status code was: 127
+
+2024-08-02 21:57:08,959 - ERROR - Job "main (trigger: date[2024-08-02 21:57:00 UTC], next run at: 2024-08-02 21:57:00 UTC)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/app/raspagem.py", line 163, in main
+    tirar_print(IMDB_URL, "screenshot.png")
+  File "/app/raspagem.py", line 132, in tirar_print
+    driver.quit()
+UnboundLocalError: local variable 'driver' referenced before assignment

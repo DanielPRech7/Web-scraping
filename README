@@ -1,0 +1,10 @@
+# IMPORTANTE:
+# Antes de rodar configure no raspagem.py a data para padrão UTC
+
+# Comando para executar docker
+# docker build -t raspagem .
+# docker-compose up
+
+# Acessar site
+# http://localhost:5000/
+# http://localhost:5000/movies/base64

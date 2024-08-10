@@ -1,0 +1,141 @@
+2024-08-02 13:24:20,946 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 13:24:20,949 - INFO - Added job "main" to job store "default"
+2024-08-02 13:24:20,949 - INFO - Scheduler started
+2024-08-02 13:24:20,950 - INFO - Scheduler iniciado.
+2024-08-02 13:24:20,950 - WARNING - Run time of job "main (trigger: date[2024-08-02 12:55:00 -03], next run at: 2024-08-02 12:55:00 -03)" was missed by 0:29:20.950158
+2024-08-02 13:24:20,950 - INFO - Removed job 994bf4aafc914c5ea44654a28d38aae5
+2024-08-02 13:24:22,239 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.5:5000
+2024-08-02 13:24:22,240 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 13:24:22,244 - INFO -  * Restarting with stat
+2024-08-02 13:24:24,095 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 13:24:24,096 - INFO - Added job "main" to job store "default"
+2024-08-02 13:24:24,096 - INFO - Scheduler started
+2024-08-02 13:24:24,099 - INFO - Scheduler iniciado.
+2024-08-02 13:24:24,099 - WARNING - Run time of job "main (trigger: date[2024-08-02 12:55:00 -03], next run at: 2024-08-02 12:55:00 -03)" was missed by 0:29:24.099071
+2024-08-02 13:24:24,099 - INFO - Removed job d25a0dde6c4d485c884e148dd346ab84
+2024-08-02 13:24:24,107 - WARNING -  * Debugger is active!
+2024-08-02 13:24:24,112 - INFO -  * Debugger PIN: 376-220-957
+2024-08-02 13:25:22,883 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 13:25:22,884 - INFO - Added job "main" to job store "default"
+2024-08-02 13:25:22,885 - INFO - Scheduler started
+2024-08-02 13:25:22,885 - INFO - Scheduler iniciado.
+2024-08-02 13:25:23,769 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.5:5000
+2024-08-02 13:25:23,769 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-02 13:25:23,772 - INFO -  * Restarting with stat
+2024-08-02 13:25:25,495 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-02 13:25:25,497 - INFO - Added job "main" to job store "default"
+2024-08-02 13:25:25,497 - INFO - Scheduler started
+2024-08-02 13:25:25,498 - INFO - Scheduler iniciado.
+2024-08-02 13:25:25,506 - WARNING -  * Debugger is active!
+2024-08-02 13:25:25,508 - INFO -  * Debugger PIN: 376-220-957
+2024-08-02 13:27:00,010 - INFO - Running job "main (trigger: date[2024-08-02 13:27:00 -03], next run at: 2024-08-02 13:27:00 -03)" (scheduled at 2024-08-02 13:27:00-03:00)
+2024-08-02 13:27:00,011 - INFO - Running job "main (trigger: date[2024-08-02 13:27:00 -03], next run at: 2024-08-02 13:27:00 -03)" (scheduled at 2024-08-02 13:27:00-03:00)
+2024-08-02 13:27:00,012 - INFO - Removed job 7b140c9085dc41578090845e629d7db4
+2024-08-02 13:27:00,013 - INFO - Removed job 43e46bb8126d412e83338cafdecb8a73
+2024-08-02 13:27:02,536 - INFO - Requisição feita com sucesso, status code: 200
+2024-08-02 13:27:02,575 - INFO - Requisição feita com sucesso, status code: 200
+2024-08-02 13:27:02,638 - INFO - Títulos extraídos com sucesso:
+2024-08-02 13:27:02,638 - INFO - Filme: IMDb Charts
+2024-08-02 13:27:02,638 - INFO - Filme: IMDb Top 250 Movies
+2024-08-02 13:27:02,638 - INFO - Filme: 1. The Shawshank Redemption
+2024-08-02 13:27:02,638 - INFO - Filme: 2. The Godfather
+2024-08-02 13:27:02,638 - INFO - Filme: 3. The Dark Knight
+2024-08-02 13:27:02,638 - INFO - Filme: 4. The Godfather Part II
+2024-08-02 13:27:02,638 - INFO - Filme: 5. 12 Angry Men
+2024-08-02 13:27:02,638 - INFO - Filme: 6. Schindler's List
+2024-08-02 13:27:02,638 - INFO - Filme: 7. The Lord of the Rings: The Return of the King
+2024-08-02 13:27:02,638 - INFO - Filme: 8. Pulp Fiction
+2024-08-02 13:27:02,638 - INFO - Filme: 9. The Lord of the Rings: The Fellowship of the Ring
+2024-08-02 13:27:02,638 - INFO - Filme: 10. The Good, the Bad and the Ugly
+2024-08-02 13:27:02,638 - INFO - Filme: 11. Forrest Gump
+2024-08-02 13:27:02,639 - INFO - Filme: 12. The Lord of the Rings: The Two Towers
+2024-08-02 13:27:02,639 - INFO - Filme: 13. Fight Club
+2024-08-02 13:27:02,639 - INFO - Filme: 14. Inception
+2024-08-02 13:27:02,639 - INFO - Filme: 15. Star Wars: Episode V - The Empire Strikes Back
+2024-08-02 13:27:02,639 - INFO - Filme: 16. The Matrix
+2024-08-02 13:27:02,639 - INFO - Filme: 17. Goodfellas
+2024-08-02 13:27:02,639 - INFO - Filme: 18. One Flew Over the Cuckoo's Nest
+2024-08-02 13:27:02,639 - INFO - Filme: 19. Interstellar
+2024-08-02 13:27:02,639 - INFO - Filme: 20. Se7en
+2024-08-02 13:27:02,639 - INFO - Filme: 21. It's a Wonderful Life
+2024-08-02 13:27:02,639 - INFO - Filme: 22. Seven Samurai
+2024-08-02 13:27:02,639 - INFO - Filme: 23. The Silence of the Lambs
+2024-08-02 13:27:02,639 - INFO - Filme: 24. Saving Private Ryan
+2024-08-02 13:27:02,639 - INFO - Filme: 25. City of God
+2024-08-02 13:27:02,639 - INFO - Filme: Recently viewed
+2024-08-02 13:27:02,659 - INFO - Títulos extraídos com sucesso:
+2024-08-02 13:27:02,659 - INFO - Filme: IMDb Charts
+2024-08-02 13:27:02,659 - INFO - Filme: IMDb Top 250 Movies
+2024-08-02 13:27:02,659 - INFO - Filme: 1. The Shawshank Redemption
+2024-08-02 13:27:02,659 - INFO - Filme: 2. The Godfather
+2024-08-02 13:27:02,659 - INFO - Filme: 3. The Dark Knight
+2024-08-02 13:27:02,659 - INFO - Filme: 4. The Godfather Part II
+2024-08-02 13:27:02,659 - INFO - Filme: 5. 12 Angry Men
+2024-08-02 13:27:02,659 - INFO - Filme: 6. Schindler's List
+2024-08-02 13:27:02,659 - INFO - Filme: 7. The Lord of the Rings: The Return of the King
+2024-08-02 13:27:02,659 - INFO - Filme: 8. Pulp Fiction
+2024-08-02 13:27:02,660 - INFO - Filme: 9. The Lord of the Rings: The Fellowship of the Ring
+2024-08-02 13:27:02,660 - INFO - Filme: 10. The Good, the Bad and the Ugly
+2024-08-02 13:27:02,660 - INFO - Filme: 11. Forrest Gump
+2024-08-02 13:27:02,660 - INFO - Filme: 12. The Lord of the Rings: The Two Towers
+2024-08-02 13:27:02,660 - INFO - Filme: 13. Fight Club
+2024-08-02 13:27:02,660 - INFO - Filme: 14. Inception
+2024-08-02 13:27:02,660 - INFO - Filme: 15. Star Wars: Episode V - The Empire Strikes Back
+2024-08-02 13:27:02,660 - INFO - Filme: 16. The Matrix
+2024-08-02 13:27:02,660 - INFO - Filme: 17. Goodfellas
+2024-08-02 13:27:02,660 - INFO - Filme: 18. One Flew Over the Cuckoo's Nest
+2024-08-02 13:27:02,660 - INFO - Filme: 19. Interstellar
+2024-08-02 13:27:02,660 - INFO - Filme: 20. Se7en
+2024-08-02 13:27:02,660 - INFO - Filme: 21. It's a Wonderful Life
+2024-08-02 13:27:02,660 - INFO - Filme: 22. Seven Samurai
+2024-08-02 13:27:02,660 - INFO - Filme: 23. The Silence of the Lambs
+2024-08-02 13:27:02,660 - INFO - Filme: 24. Saving Private Ryan
+2024-08-02 13:27:02,660 - INFO - Filme: 25. City of God
+2024-08-02 13:27:02,660 - INFO - Filme: Recently viewed
+2024-08-02 13:27:02,661 - INFO - Salvando filmes.json
+2024-08-02 13:27:02,662 - INFO - JSON convertido para Base64 e salvo em filmes_base64.txt
+2024-08-02 13:27:02,662 - INFO - Salvando filmes.csv
+2024-08-02 13:27:02,663 - INFO - Dados salvos em filmes.csv e filmes.json
+2024-08-02 13:27:02,670 - INFO - Salvando filmes.json
+2024-08-02 13:27:02,670 - INFO - JSON convertido para Base64 e salvo em filmes_base64.txt
+2024-08-02 13:27:02,671 - INFO - Salvando filmes.csv
+2024-08-02 13:27:02,671 - INFO - Dados salvos em filmes.csv e filmes.json
+2024-08-02 13:27:02,680 - INFO - Tabela 'movies' criada.
+2024-08-02 13:27:02,681 - INFO - Dados inseridos na tabela 'movies' com sucesso.
+2024-08-02 13:27:02,689 - INFO - ====== WebDriver manager ======
+2024-08-02 13:27:02,690 - INFO - Tabela 'movies' criada.
+2024-08-02 13:27:02,694 - INFO - Dados inseridos na tabela 'movies' com sucesso.
+2024-08-02 13:27:02,700 - INFO - ====== WebDriver manager ======
+2024-08-02 13:27:03,909 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 13:27:03,922 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 13:27:04,023 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 13:27:04,094 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 13:27:04,095 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 13:27:04,264 - INFO - WebDriver version 127.0.6533.88 selected
+2024-08-02 13:27:04,268 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win32/chromedriver-win32.zip
+2024-08-02 13:27:04,268 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win32/chromedriver-win32.zip
+2024-08-02 13:27:04,268 - INFO - WebDriver version 127.0.6533.88 selected
+2024-08-02 13:27:04,271 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win32/chromedriver-win32.zip
+2024-08-02 13:27:04,271 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win32/chromedriver-win32.zip
+2024-08-02 13:27:04,420 - INFO - Driver downloading response is 200
+2024-08-02 13:27:04,439 - INFO - Driver downloading response is 200
+2024-08-02 13:27:05,011 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 13:27:05,210 - INFO - Driver has been saved in cache [C:\Users\danie\.wdm\drivers\chromedriver\win64\127.0.6533.88]
+2024-08-02 13:27:06,835 - INFO - Driver iniciado com sucesso.
+2024-08-02 13:27:07,282 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-02 13:27:07,393 - INFO - Driver has been saved in cache [C:\Users\danie\.wdm\drivers\chromedriver\win64\127.0.6533.88]
+2024-08-02 13:27:08,484 - INFO - Driver iniciado com sucesso.
+2024-08-02 13:27:13,148 - INFO - URL carregada: https://www.imdb.com/chart/top/
+2024-08-02 13:27:14,263 - INFO - Captura salva como: screenshot.png
+2024-08-02 13:27:14,464 - INFO - URL carregada: https://www.imdb.com/chart/top/
+2024-08-02 13:27:15,060 - INFO - Captura salva como: screenshot.png
+2024-08-02 13:27:16,708 - INFO - Driver finalizado.
+2024-08-02 13:27:17,127 - INFO - Driver finalizado.
+2024-08-02 13:27:20,812 - INFO - Job "main (trigger: date[2024-08-02 13:27:00 -03], next run at: 2024-08-02 13:27:00 -03)" executed successfully
+2024-08-02 13:27:21,220 - INFO - Job "main (trigger: date[2024-08-02 13:27:00 -03], next run at: 2024-08-02 13:27:00 -03)" executed successfully
